@@ -1,0 +1,220 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Win32\Debug\)包含从另一个项目(libvorbis.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  window.c
+  vorbisenc.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\modes\psych_44.h(26,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\modes\psych_44.h(32,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\modes\psych_44.h(38,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\modes\psych_44.h(44,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\modes\psych_44.h(50,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(247,88): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(248,91): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(250,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(230,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(271,74): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(272,74): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(273,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(275,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(276,70): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(277,70): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(283,74): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(284,74): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(285,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(288,87): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(290,70): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(291,70): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(257,1): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(258,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(270,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(281,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(311,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(344,66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(345,66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(346,66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(347,63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(348,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(350,47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(353,63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(337,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(376,66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(361,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(387,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(382,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(402,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(409,73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(416,34): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(397,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(428,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(429,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(446,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(528,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(592,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(621,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(658,1): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(659,1): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(660,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(717,50): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(834,54): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(840,68): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(842,26): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(877,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(913,20): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(914,31): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(967,53): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(969,41): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(979,26): warning C4244: “=”: 从“long”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(990,26): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(1074,66): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(1090,49): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\vorbisenc.c(1093,37): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+  synthesis.c
+  smallft.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\smallft.c(98,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\smallft.c(99,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\smallft.c(282,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\smallft.c(283,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\smallft.c(852,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\smallft.c(853,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  sharedbook.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\sharedbook.c(53,37): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\sharedbook.c(54,40): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\sharedbook.c(73,26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\sharedbook.c(173,48): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\sharedbook.c(237,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\sharedbook.c(257,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\sharedbook.c(236,1): warning C4244: “初始化”: 从“long”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\sharedbook.c(256,1): warning C4244: “初始化”: 从“long”转换到“float”，可能丢失数据
+  res0.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\res0.c(439,17): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\res0.c(419,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  registry.c
+  psy.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(136,78): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(138,53): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(172,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(173,41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(174,44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(238,16): warning C4456: “bin”的声明隐藏了上一个本地声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(159,27): message : 参见“bin”的声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(253,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(258,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(191,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(192,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(216,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(217,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(238,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(273,63): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(275,78): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(276,57): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(289,39): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(290,41): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(300,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(324,66): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(326,56): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(347,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(295,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(311,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(335,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(401,60): warning C4244: “=”: 从“const float”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(403,17): warning C4244: “=”: 从“const float”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(570,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(742,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(804,21): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(810,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(817,31): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(821,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(925,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(956,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(958,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(979,35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(981,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(995,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(1053,75): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(1131,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(1160,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(1179,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(1181,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(1024,1): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\psy.c(1025,1): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+  mdct.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(57,55): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(65,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(66,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(67,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(68,54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(71,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(72,53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(78,32): warning C4456: “i”的声明隐藏了上一个本地声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(55,7): message : 参见“i”的声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(439,19): warning C4456: “iX”的声明隐藏了上一个本地声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\mdct.c(403,14): message : 参见“iX”的声明
+  mapping0.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\mapping0.c(264,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\mapping0.c(310,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\mapping0.c(327,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\mapping0.c(385,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  lsp.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\lsp.c(252,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\lsp.c(276,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\lsp.c(259,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\lsp.c(350,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\lsp.c(397,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\lsp.c(449,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\lsp.c(452,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  lpc.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\lpc.c(129,15): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  lookup.c
+  info.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\info.c(45,29): warning C4244: “=”: 从“long”转换到“char”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\info.c(64,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11111\Desktop\工作台\vorbis\lib\info.c(72,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11111\Desktop\工作台\vorbis\lib\info.c(73,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11111\Desktop\工作台\vorbis\lib\info.c(74,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11111\Desktop\工作台\vorbis\lib\info.c(97,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11111\Desktop\工作台\vorbis\lib\info.c(98,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11111\Desktop\工作台\vorbis\lib\info.c(119,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\11111\Desktop\工作台\vorbis\lib\info.c(120,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  floor1.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor1.c(274,1): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor1.c(496,15): warning C4457: “a”的声明隐藏了函数参数
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor1.c(456,32): message : 参见“a”的声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor1.c(498,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor1.c(499,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor1.c(713,13): warning C4456: “y0”的声明隐藏了上一个本地声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor1.c(612,9): message : 参见“y0”的声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor1.c(714,13): warning C4456: “y1”的声明隐藏了上一个本地声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor1.c(613,9): message : 参见“y1”的声明
+  floor0.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor0.c(125,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor0.c(135,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  envelope.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\envelope.c(47,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\envelope.c(64,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\envelope.c(67,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\envelope.c(144,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\envelope.c(126,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  codebook.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\codebook.c(182,33): warning C4244: “=”: 从“long”转换到“char”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\codebook.c(191,31): warning C4244: “=”: 从“long”转换到“char”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\codebook.c(213,34): warning C4244: “=”: 从“long”转换到“char”，可能丢失数据
+  block.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\block.c(255,10): warning C4456: “i”的声明隐藏了上一个本地声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\block.c(171,7): message : 参见“i”的声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\block.c(863,1): warning C4244: “初始化”: 从“ogg_int64_t”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\block.c(901,1): warning C4244: “初始化”: 从“ogg_int64_t”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\block.c(1028,10): warning C4456: “i”的声明隐藏了上一个本地声明
+C:\Users\11111\Desktop\工作台\vorbis\lib\block.c(971,7): message : 参见“i”的声明
+  bitrate.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\bitrate.c(41,67): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\bitrate.c(42,67): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\bitrate.c(43,67): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\bitrate.c(50,1): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\bitrate.c(134,54): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\bitrate.c(82,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11111\Desktop\工作台\vorbis\lib\bitrate.c(87,1): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  analysis.c
+  正在生成代码...
+C:\Users\11111\Desktop\工作台\vorbis\lib\analysis.c(46): warning C4706: 条件表达式内的赋值
+  libvorbis_static.vcxproj -> C:\Users\11111\Desktop\工作台\vorbis\win32\VS2010\Win32\Debug\libvorbis_static.lib

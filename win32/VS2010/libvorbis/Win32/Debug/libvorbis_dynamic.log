@@ -1,0 +1,46 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  window.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\os.h(24,10): fatal error C1083: 无法打开包括文件: “ogg/os_types.h”: No such file or directory
+  vorbisenc.c
+C:\Users\11111\Desktop\工作台\vorbis\include\vorbis\codec.h(25,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  synthesis.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\synthesis.c(18,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  smallft.c
+C:\Users\11111\Desktop\工作台\vorbis\include\vorbis\codec.h(25,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  sharedbook.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\sharedbook.c(21,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  res0.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\res0.c(25,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  registry.c
+C:\Users\11111\Desktop\工作台\vorbis\include\vorbis\codec.h(25,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  psy.c
+C:\Users\11111\Desktop\工作台\vorbis\include\vorbis\codec.h(25,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  mdct.c
+C:\Users\11111\Desktop\工作台\vorbis\include\vorbis\codec.h(25,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  mapping0.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\mapping0.c(21,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  lsp.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\os.h(24,10): fatal error C1083: 无法打开包括文件: “ogg/os_types.h”: No such file or directory
+  lpc.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\os.h(24,10): fatal error C1083: 无法打开包括文件: “ogg/os_types.h”: No such file or directory
+  lookup.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\os.h(24,10): fatal error C1083: 无法打开包括文件: “ogg/os_types.h”: No such file or directory
+  info.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\info.c(22,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  floor1.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor1.c(20,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  floor0.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\floor0.c(20,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  envelope.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\envelope.c(21,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  codebook.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\codebook.c(20,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  block.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\block.c(23,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  bitrate.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\bitrate.c(20,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  analysis.c
+C:\Users\11111\Desktop\工作台\vorbis\lib\analysis.c(20,10): fatal error C1083: 无法打开包括文件: “ogg/ogg.h”: No such file or directory
+  正在生成代码...
